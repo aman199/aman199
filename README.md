@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aman199
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning javascript and python
+- 😬 I'm lil nervous but I know I will kill it 💪 
